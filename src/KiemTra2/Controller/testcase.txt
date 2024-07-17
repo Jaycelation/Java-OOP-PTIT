@@ -1,0 +1,20 @@
+A1234, Toyota, 2020, 30000 USD, Đỏ
+B5678, Honda, 2019, 25000 USD, Trắng
+A9101, Ford, 2018, 28000 USD, Đen
+B2345, BMW, 2021, 50000 USD, Xanh dương
+A6789, Audi, 2017, 45000 USD, Xám
+B1122, Mercedes, 2022, 60000 USD, Bạc
+A3344, Kia, 2015, 20000 USD, Vàng
+B5566, Hyundai, 2016, 22000 USD, Xanh lá
+A7788, Nissan, 2014, 18000 USD, Cam
+B9900, Chevrolet, 2013, 16000 USD, Hồng
+A1235, Tesla, 2023, 70000 USD, Trắng
+B5679, Volkswagen, 2012, 15000 USD, Đen
+A9102, Volvo, 2021, 45000 USD, Xanh dương
+B2346, Peugeot, 2010, 10000 USD, Đỏ
+A6790, Fiat, 2009, 9000 USD, Vàng
+B1123, Lexus, 2018, 35000 USD, Xám
+A3345, Subaru, 2017, 30000 USD, Cam
+B5567, Mazda, 2019, 25000 USD, Xanh lá
+A7789, Mitsubishi, 2020, 28000 USD, Bạc
+B9901, Land Rover, 2021, 60000 USD, Hồng
